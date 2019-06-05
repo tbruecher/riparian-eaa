@@ -6,6 +6,8 @@ Calculating riparian zones within the Contributing and Recharge Zones of the Edw
 >
 >(Ilhardt et al., 2000)
 
+![CZ Riparian Zones](https://eaa.maps.arcgis.com/sharing/rest/content/items/4941911d1b0543ceb31fac140481a231/data)
+
 ### Model Inputs
 * [Streams, lakes, and watersheds](http://nhd.usgs.gov/) 
 * 50-year flood height
